@@ -11,12 +11,14 @@ keywords:
 - venison
 autoThumbnailImage: true 
 thumbnailImagePosition: "left"
-thumbnailImage: 
-coverImage: 
+thumbnailImage: http://res.cloudinary.com/hunt2fish/image/upload/v1513356118/home-style-corned-venison-deer-meat-recipes_gwxa00.jpg
+coverImage: http://res.cloudinary.com/hunt2fish/image/upload/v1513356118/home-style-corned-venison-deer-meat-recipes_gwxa00.jpg
 metaAlignment: center
 draft: false 
 ---
-*Recipe Courtesy of John Eberhart*
+While out scouting with [John Eberhart](http://www.eberhartswhitetailworkshop.com), he mentioned his favorite venison recipe and passed it along to us - *enjoy!*
+
+<!--more-->
 
 #### Ingredients
 
