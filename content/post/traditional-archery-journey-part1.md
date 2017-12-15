@@ -1,5 +1,5 @@
 ---
-title: "A Traditional Archery Journey, part 1"
+title: "A Traditional Archery Journey - part 1"
 date: 2017-02-22
 categories:
 - archery 
@@ -16,9 +16,9 @@ keywords:
 - archery 
 - hunting 
 autoThumbnailImage: false
-thumbnailImagePosition: "top"
-thumbnailImage: http://www.hunt2fishoutdoors.com/wp-content/uploads/2017/02/pri-bg-post-house-deer.jpg 
-coverImage: http://www.hunt2fishoutdoors.com/wp-content/uploads/2017/02/pri-bg-post-house-deer.jpg 
+thumbnailImagePosition: "left"
+thumbnailImage: http://res.cloudinary.com/hunt2fish/image/upload/v1513344415/pri-bg-post-house-deer_lt8nhl.jpg 
+coverImage: http://res.cloudinary.com/hunt2fish/image/upload/v1513344415/pri-bg-post-house-deer_lt8nhl.jpg 
 metaAlignment: center
 ---
 What is it about a stick and a string that is so appealing? With all the advancements in technology, why would I ever be enticed to use something so simple?
