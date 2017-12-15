@@ -32,7 +32,7 @@ canonifyurls = true
 
 [author]
   name = "Hunt2Fish"
-  bio = ""
+  bio = "Ken Scicluna, Gabe Forster, Dom Guzzardo, and Drew YoungDyke have joined forces to provide you with an Everyman perspective on hunting and fishing news, stories, insights and more."
   job = ""
   location = "USA"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -124,7 +124,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Hunt2Fish is a hunting and fishing media outlet"
+  description = "Hunt2Fish is a hunting and fishing podcast, blog and more bringing you the everyman perspective on the outdoors."
 
   # Customization
   # Define the behavior of the sidebar
@@ -157,7 +157,7 @@ canonifyurls = true
   # Display thumbnail image at the right of title in index pages (`right`, `left` or `bottom`)
   # Set this value to `right` if you have old posts to keep the old style on them
   # and define `thumbnailImagePosition` on a post to overwrite this setting
-  thumbnailImagePosition = "bottom"
+  thumbnailImagePosition = "left"
   # Automatically select the cover image or the first photo from the gallery of a post if there is no thumbnail image as the thumbnail image
   # Set this value to `true` if you have old posts that use the cover image or the first photo as the thumbnail image
   # and set `autoThumbnailImage` to `false` on a post to overwrite this setting
@@ -202,10 +202,10 @@ canonifyurls = true
     icon = "fa-twitter"
     url = "https://twitter.com/intent/tweet?text=%s"
 
-  [[params.sharingOptions]]
-    name = "Google+"
-    icon = "fa-google-plus"
-    url = "https://plus.google.com/share?url=%s"
+  #[[params.sharingOptions]]
+  #  name = "Google+"
+  #  icon = "fa-google-plus"
+  #  url = "https://plus.google.com/share?url=%s"
 
   [params.header.rightLink]
     class = ""
@@ -215,7 +215,3 @@ canonifyurls = true
   # Customize link of author avatar in sidebar
   # [params.sidebar.profile]
   #   url = "/#about"
-
-  # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
-  # [params.footer]
-  #   copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
