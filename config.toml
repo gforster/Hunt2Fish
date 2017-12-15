@@ -57,7 +57,7 @@ canonifyurls = true
   weight = 2
   identifier = "podcast"
   name = "Podcast"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-headphones\"></i>"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-podcast\"></i>"
   url = "http://podcast.hunt2fishoutdoors.com"
 [[menu.main]]
   weight = 3
@@ -96,9 +96,25 @@ canonifyurls = true
   name = "instagram"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-instagram\"></i>"
   url = "https://instagram.com/hunt2fish_outdoors"
-
+[[menu.links]]
+  weight = 3
+  identifier = "itunes"
+  name = "iTunes"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-apple\"></i>"
+  url = "https://itunes.apple.com/us/podcast/hunt2fish-outdoors/id1207405120"
+[[menu.links]]
+  weight = 4
+  identifier = "google-play"
+  name = "Google Play"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-google\"></i>"
+  url = "https://play.google.com/music/listen#/ps/I6tucgyh5fn7vjtdgibekoautri"
+[[menu.links]]
+  weight = 5
+  identifier = "stitcher"
+  name = "Stitcher"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-podcast\"></i>"
 [[menu.misc]]
-  weight = 1
+  weight = 6
   identifier = "rss"
   name = "RSS"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
@@ -119,7 +135,7 @@ canonifyurls = true
   syntaxHighlighter = "highlight.js"
 
   # Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
-  clearReading = true
+  clearReading = false 
 
   # Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo". 
   # If false it will flat categories.
@@ -140,7 +156,7 @@ canonifyurls = true
   #    large sidebar is swiped on all lower screens
   # 5: Display header bar on all screens and large sidebar is swiped on large screen
   # 6: Display header bar on all screens and medium sidebar is swiped
-  sidebarBehavior = 1
+  sidebarBehavior = 4
 
   # Your blog cover picture. I STRONGLY recommend you to use a CDN to speed up loading of pages.
   # There is many free CDN like Cloudinary or you can also use indirectly
@@ -171,6 +187,7 @@ canonifyurls = true
   # The link at the right of the header is customizable
   # You can add a link (as an icon) at the right of the header instead of the author's gravatar image or author's picture.
   # By default, author's gravatar or author's picture is displayed.
+  # [params.header.rightLink]
   #     url: /#search
   #     icon: search
   #     class: st-search-show-outputs
