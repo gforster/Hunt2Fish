@@ -1,10 +1,26 @@
 ---
-title: "Sweet Spicy Venison Chili"
-date: 2017-12-15T07:29:51-05:00
-draft: true
+title: "Sweet & Spicy Venison Chili"
+date: 2017-03-22T07:29:51-05:00
+categories:
+- recipes 
+tags:
+- venison
+- recipe
+keywords:
+- recipe
+- venison
+autoThumbnailImage: true 
+thumbnailImagePosition: "left"
+thumbnailImage: http://res.cloudinary.com/hunt2fish/image/upload/v1513344457/Chili_tcgyrl.jpg 
+coverImage: http://res.cloudinary.com/hunt2fish/image/upload/v1513344457/Chili_tcgyrl.jpg 
+metaAlignment: center
+draft: false 
 ---
+Give this recipe a shot next time you decide to use up that ground venison! 
 
-Give this recipe a shot next time you decide to use up that ground venison! Sweet and Spicy Venison Chili Ingredients:
+<!--more-->
+
+## Ingredients
 
 *   1 lb ground venison
 *   1 onion
@@ -18,6 +34,17 @@ Give this recipe a shot next time you decide to use up that ground venison! Swee
 *   olive oil
 *   brown sugar
 
-Cooking instructions: Brown venison with olive oil, onion and garlic. Add tomato soup, tomatoes, tomato paste hot chili beans (don't drain the beans) and chili seasoning packet. Bring to a boil while stirring occasionally. Turn heat down to medium, add crushed red pepper to taste, cover let simmer 10-15 minutes stirring occasionally. Add brown sugar to taste, simmer for 5 minutes. Serve and enjoy! Bonus: If you have squirrel or rabbit, crock pot the meat, de-bone and add to your
-chili and now it becomes "sweet and spicy wild game chili"!
+## Directions
+
+1. Brown venison with olive oil, onion and garlic. 
+2. Add tomato soup, tomatoes, tomato paste, hot chili beans *(don't drain the beans)* and chili seasoning packet. 
+3. Bring to a boil while stirring occasionally. 
+4. Turn heat down to medium, add crushed red pepper to taste, cover.  
+5. Let simmer 10-15 minutes, stirring occasionally. 
+6. Add brown sugar to taste, simmer for 5 minutes. 
+7. Serve and enjoy! 
+
+#### Bonus: 
+
+If you have squirrel or rabbit, crock pot the meat, de-bone and add to your chili and now it becomes "sweet and spicy wild game chili"!
 
