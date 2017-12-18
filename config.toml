@@ -32,7 +32,7 @@ canonifyurls = true
 
 [author]
   name = "Hunt2Fish"
-  bio = "Ken Scicluna, Gabe Forster, Dom Guzzardo, and Drew YoungDyke have joined forces to provide you with an Everyman perspective on hunting and fishing news, stories, insights and more."
+  bio = "Ken Scicluna, Gabe Forster, Dom Guzzardo, and Drew YoungeDyke have joined forces to provide you with an Everyman perspective on hunting and fishing news, stories, insights and more."
   job = ""
   location = "USA"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
